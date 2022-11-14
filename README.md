@@ -2,8 +2,10 @@
 name: SchoolTimeTable<br>
 ver:  [Alpha  1.0]<br>
 <br>
-1, 11/14/2022<br><br>
-
+1, 11/14/2022<br><br>b
+<br>
+[最新のリリースをダウンロード](https://github.com/FireSepicHub-14/TimeTable/archive/refs/heads/main.zip)
+<br>
 
 ## 進捗<br>
 ◯: 基礎<br>
