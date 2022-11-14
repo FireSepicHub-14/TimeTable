@@ -1,0 +1,27 @@
+table th{/*thに対して*/
+    color: #FF9800;/*文字色*/
+    background: #b7fd8f60;/*背景色*/
+}
+.table{
+    text-align: center;
+    background: #CCC;
+    overflow: hidden;
+}
+table {
+    border: solid 2px orange;
+    border-collapse: collapse;
+}
+table th, table td {
+    margin: 8px auto 30px;
+    /* border: solid 2px rgb(0, 211, 105); */
+    border: dashed 1px orchid;
+}
+
+
+
+.at{
+    color:cornflowerblue
+}
+.bt{
+    color:deeppink
+}
