@@ -4,8 +4,10 @@ ver:  [Alpha  1.0]<br>
 <br>
 1, 11/14/2022<br><br>
 <br>
-[最新のリリースをダウンロード](https://github.com/FireSepicHub-14/TimeTable/archive/refs/heads/main.zip)<br>
-[pages](https://firesepichub-14.github.io/TimeTable)
+[最新のソースをダウンロード](https://github.com/FireSepicHub-14/TimeTable/archive/refs/heads/main.zip)<br>
+[最新のページ](https://firesepichub-14.github.io/TimeTable)
+<br>
+古いバージョンをご希望の方は、[tags](https://github.com/FireSepicHub-14/TimeTable/tags)よりダウンロードしてください。<br>
 <br>
 
 ## 進捗<br>
