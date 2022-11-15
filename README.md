@@ -9,6 +9,8 @@ ver:  [Alpha  1.0]<br>
 <br>
 古いバージョンをご希望の方は、[tags](https://github.com/FireSepicHub-14/TimeTable/tags)よりダウンロードしてください。<br>
 <br>
+※**Alpha  1.3**よりABシフトスイッチを実装します
+<br>
 
 ## 進捗<br>
 ◯: 基礎<br>
